@@ -1,0 +1,24 @@
+div {
+  width: 100%;
+  height: 40px;
+}
+.title {
+  height: 100px;
+}
+.gamearea {
+  width: 100%;
+  height: 100%;
+}
+.cell {
+  width: 30px;
+  height: 30px;
+  background-color: grey;
+  float: left;
+  margin: 3px;
+}
+.clicked {
+  background-color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 5px;
+}
